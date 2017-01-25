@@ -1,6 +1,6 @@
 # content-trimmer
 
-We all use [torrent client] (www.utorrent.com/) (at least I do), although there are life-savers, I found myself frustrated (sometimes if not all the time) by the typos, or weird naming (convention) of downloaded items i.e instead of *01 Dummy torrent.mp4*, you get the file as *01_dummy_content.mp4* or *01dummycontent.mp4*. 
+We all use [torrent clients] (www.utorrent.com/) (at least I do), although there are life-savers, I found myself frustrated (sometimes if not all the time) by the typos, or weird naming (convention) of downloaded items i.e instead of *01 Dummy torrent.mp4*, you get the file as *01_dummy_content.mp4* or *01dummycontent.mp4*. 
 
 **content-trimmer** is my ~~stupid~~ way to automate the file *renaming* process -- 'cause doing it manually **SUCKS BIG TIME**! 
 
