@@ -7,7 +7,7 @@ def trim(file_name):
     """Removes extra spaces and underscore from the file name.
 
     Keyword arguments:
-    file_name -- file to be rename
+    file_name -- file to be renamed
 
     Returns: string
 
