@@ -6,7 +6,7 @@ We all use [torrent clients] (www.utorrent.com/) (at least I do), although there
 
 ######Usage
 
-`python rename.py /path/to/the/folder/that/you/want/content/to/be/renamed`
+`python app.py /path/to/the/folder/that/you/want/content/to/be/renamed`
 
 **content-trimmer** only supports **Python 3**. (sorry!)
 
