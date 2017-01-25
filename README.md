@@ -12,7 +12,7 @@ We all use [torrent clients] (www.utorrent.com/) (at least I do), although there
 
 ######Note
 
-It's very basic at this point -- it removes the extra white space, underscores, dot,.. and replace them with a single space. But I intend to add more features in the future.
+It's very basic at this point -- it removes the extra white spaces, underscores and replace them with a single space. But I intend to add more features in the future.
 
 
 Voila:-)
