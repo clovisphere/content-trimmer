@@ -8,8 +8,6 @@ We all use [torrent clients] (www.utorrent.com/) (at least I do), although they'
 
 `python app.py /path/to/the/folder/that/you/want/content/to/be/renamed`
 
-**content-trimmer** only supports **Python 3**. (sorry!)
-
 ######Note
 
 It's very basic at this point -- it removes the extra white spaces, underscores and replace them with a single space. But I intend to add more features in the future.
